@@ -23,6 +23,10 @@ private Item[] store = {new Item(184,14),
 public int linearSearch(int catNumToFind)
 {
     //complete this method
+    for(int n=0; n<=tests.length; n++)
+    {
+        
+    }
     return -1;
 }
 public int binarySearch(int catNumToFind)
